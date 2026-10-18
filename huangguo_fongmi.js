@@ -3,7 +3,7 @@
 // Adapted from Yswag/xptv-extensions huangguo.js
 import 'assets://js/lib/crypto-js.js';
 
-const SITE = 'https://huangguoai.com';
+const SITE = 'https://kdt55.ye28r31s.cc/';
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 const IMG_KEY = 'f5d965df75336270';
 const IMG_IV = '97b60394abc2fbe1';
