@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "红果",
-      "name": "红果",
+      "name": "红果短剧",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/pqq234/hg/raw/refs/heads/main/红果.py",
       "searchable": 1,
