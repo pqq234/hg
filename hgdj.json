@@ -6,8 +6,18 @@
       "type": 3,
       "api": "https://github.com/pqq234/hg/raw/refs/heads/main/红果短剧.py",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Huangju",
+      "name": "红果黄剧",
+      "type": 3,
+      "api": "https://github.com/pqq234/hg/raw/refs/heads/main/Huangju.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "changeable": 0
     }
   ]
