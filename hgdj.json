@@ -9,16 +9,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
-    },
-    {
-      "key": "Huangju",
-      "name": "红果黄剧",
-      "type": 3,
-      "api": "https://github.com/pqq234/hg/raw/refs/heads/main/Huangju.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
     }
   ]
 }
